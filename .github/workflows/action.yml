@@ -1,4 +1,4 @@
-name: <Name of your workflow>
+name: action
 on:
   push:
     branches:
